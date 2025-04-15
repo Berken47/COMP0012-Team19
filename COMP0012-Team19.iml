@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/group19/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/group19/test" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="module-library">
+      <library name="JsTypeDef-Std-Lib" type="Objective-J Library">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$APPLICATION_PLUGINS_DIR$/Objective-J/lib/Objective-J-2021.08.21.jar!/definitions/jstypedef" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Cappuccino" type="Objective-J Library">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$APPLICATION_PLUGINS_DIR$/Objective-J/lib/Objective-J-2021.08.21.jar!/definitions/AppKit" />
+          <root url="jar://$APPLICATION_PLUGINS_DIR$/Objective-J/lib/Objective-J-2021.08.21.jar!/definitions/Foundation" />
+          <root url="jar://$APPLICATION_PLUGINS_DIR$/Objective-J/lib/Objective-J-2021.08.21.jar!/definitions/AppKit" />
+          <root url="jar://$APPLICATION_PLUGINS_DIR$/Objective-J/lib/Objective-J-2021.08.21.jar!/definitions/Foundation" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
